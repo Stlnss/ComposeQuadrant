@@ -1,6 +1,7 @@
 # ComposeQuadrant
 
 Practice Compose Basics
+![screen shot](./assets/README-1681731367292.png)
 
 ### References
 
